@@ -49,13 +49,7 @@ layout: default
         >
           <i class="fab fa-github"></i>
         </a>
-        {% endif %} {% if site.behance_username %}
-        <a
-          class="social-link"
-          href="http://behance.net/{{ site.behance_username }}"
-        >
-          <i class="fab fa-behance"></i>
-        </a>
+
         {% endif %} {% if site.linkedin_username %}
         <a
           class="social-link"
@@ -148,10 +142,7 @@ layout: default
       %}
       <div class="row">
         <div class="col-md-2">
-          <img
-            src="{{site.url}}{{site.baseurl}}/assets/img/{{ exp.company_logo }}"
-            class="company-logo"
-          />
+
         </div>
         <div class="col-md-6">
           <h4 class="experience-title">{{ exp.designation }}</h4>
