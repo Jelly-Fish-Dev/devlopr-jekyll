@@ -2,8 +2,8 @@ title: Isaac Hawkins
 subtitle: 
 description: >- # this means to ignore newlines until "baseurl:"
   
-url: "isaachawkins.com" # the base hostname & protocol for your site, e.g. https://example.github.io
-baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://isaachawkins.com" # the base hostname & protocol for your site, e.g. https://example.github.io
+baseurl: "/" # the subpath of your site, e.g. /blog
 
 urls:
     - text: About Me
@@ -18,7 +18,7 @@ author: Isaac Hawkins
 author_bio: Developer/IT specialist
 author_email: "isaac.g.hawkins@gmail.com"
 author_location: Australia
-author_website_url: "http://isaachawkins.com"
+author_website_url: "https://isaachawkins.com"
 typewrite-text: 3D Art, Software Development and Computer Science Rants and other musings
 
 author_work_experiences:
