@@ -14,7 +14,7 @@ urls:
 # Edit these details
 
 author_logo: profile.png
-author: Isaac Hawkins
+author: Isaac G. Hawkins
 author_bio: Developer/IT specialist
 author_email: "isaac.g.hawkins@gmail.com"
 author_location: Australia
@@ -50,9 +50,8 @@ author_education_details:
                 college_name: RMIT
                 college_url: https://www.rmit.edu.au/
                 college_degree: Information Technology
-                description: Diploma of Information Technology
+                description: Diploma of IAnformation Technology
                 visibility: true
-
               - college_logo: DeakinUniversity.png 
                 college_name: Deakin
                 college_url: https://www.deakin.edu.au/
@@ -61,12 +60,12 @@ author_education_details:
                 visibility: true 
 
 
-#author_project_details:
-#             - project_thumbnail: gamershub.png
-#               project_title: Gamers Hub
-#               project_description: A Platform built for Gamers and Game Devs
-#               project_url: https://gamershub.in
-#               visibility: true
+author_project_details:
+              - project_thumbnail: PyZ80.png
+                project_title: PyZ80
+                project_description: An Implimentation of the Zilog Z80 written in Python
+                project_url: TBA
+                visibility: true
 #             - project_thumbnail: hack4r.PNG
 #               project_title: Hack4r
 #               project_description: A Platform built for Hackers and Penetration Testers
